@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shashwat Shakya
 
-I'm a web developer from Nepal passionate about building clean, responsive applications and learning modern technologies. I enjoy experimenting with frontend and backend stacks and constantly improving my skills.
+I'm a software developer from Nepal passionate about building clean, responsive applications and learning modern technologies. I enjoy experimenting with frontend and backend stacks and constantly improving my skills.
 
 ## 🌱 Currently Learning
 
@@ -15,5 +15,6 @@ I'm a web developer from Nepal passionate about building clean, responsive appli
 ```yaml
 Languages: Java, JavaScript, Python, SQL, HTML, CSS
 Frameworks: React.js, Node.js, Express, JSP, Servlet
-Tools: Git, GitHub, VS Code, NetBeans, MySQL, Postman
+Database: MySQL, Oracle, MongoDB
+Tools: Git, GitHub, VS Code, NetBeans, Postman
 Concepts: MVC, OOP, CRUD, REST, Sessions, JWT Auth
