@@ -35,11 +35,16 @@ I'm a web developer from Nepal passionate about building clean, responsive appli
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📫 Let's Connect
+## 📫 Connect with Me
 
-- 📧 Email: shakyaa89@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/shashwatshakya](https://www.linkedin.com/in/shashwatshakya)  
-<!-- Add portfolio/blog link when available -->
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shakyaa89@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashwatshakya)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashwatshakya)
+
+<!-- Optional:
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-link)
+-->
 
 ## 📊 GitHub Stats
 
