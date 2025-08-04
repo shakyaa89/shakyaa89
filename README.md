@@ -1,16 +1,22 @@
-## Hi there 👋
+# 💫 Shashwat Shakya
 
-<!--
-**shakyaa89/shakyaa89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋 I'm Shashwat, a passionate developer and aspiring ethical hacker from Nepal. I love building web applications, exploring cybersecurity, and constantly learning new things. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🔭 Current Projects
+- 🎯 **MediConnect** — A role-based Java web application for hospital management.
+- 📦 **Inventory Management System** — Complete project lifecycle including sprints, prototyping, and feedback.
+- 🧪 Learning ethical hacking, React, Node.js, and backend security practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Ethical Hacking (CEH, OWASP, Metasploit basics)
+- Advanced Java (JSP, Servlets, JDBC, MVC)
+- MERN Stack (MongoDB, Express, React, Node.js)
+- SQL & Database Design
+- REST API development and testing (Postman, Swagger)
+
+## 💼 Skills
+```yaml
+Languages: Java, JavaScript, Python, SQL, HTML/CSS
+Frameworks: React.js, Node.js, Express, JSP/Servlet
+Tools: Git, GitHub, Postman, VS Code, NetBeans, MySQL
+Security: JWT, Hashing, Authentication, Filters, Sessions
