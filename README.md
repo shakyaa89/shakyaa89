@@ -1,16 +1,19 @@
-# 💫 Shashwat Shakya
+# 👋 Hi, I'm Shashwat Shakya
 
-Hi there! 👋 I'm Shashwat, a passionate developer and aspiring ethical hacker from Nepal. I love building web applications, exploring cybersecurity, and constantly learning new things. Welcome to my GitHub profile!
+I'm a web developer from Nepal passionate about building clean, responsive applications and learning modern technologies. I enjoy experimenting with frontend and backend stacks and constantly improving my skills.
 
-## 🌱 Skills
-- Advanced Java (JSP, Servlets, JDBC, MVC)
-- MERN Stack (MongoDB, Express, React, Node.js)
+## 🌱 Currently Learning
+
+- Full-Stack Web Development (MERN, Java with JSP/Servlets)
+- JavaScript & TypeScript
 - SQL & Database Design
-- REST API development and testing (Postman)
+- REST APIs & Backend Integration
+- React.js & Component Architecture
 
 ## 💼 Skills
+
 ```yaml
-Languages: Java, JavaScript, Python, SQL, HTML/CSS
-Frameworks: React.js, Node.js, Express, JSP/Servlet
-Tools: Git, GitHub, Postman, VS Code, NetBeans, MySQL
-Security: JWT, Hashing, Authentication, Filters, Sessions
+Languages: Java, JavaScript, Python, SQL, HTML, CSS
+Frameworks: React.js, Node.js, Express, JSP, Servlet
+Tools: Git, GitHub, VS Code, NetBeans, MySQL, Postman
+Concepts: MVC, OOP, CRUD, REST, Sessions, JWT Auth
